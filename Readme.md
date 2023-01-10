@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sona</h1>
 <h3 align="center">I'm a Backend Software Engineer specialising in Node JS!</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonaisrayel&show_icons=true&locale=en" alt="sonaisrayel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonaisrayel&show_icons=true&locale=en&color=Gradient" alt="sonaisrayel" /></p>
 
 - 🌱 I’m currently learning GO programming language
 - ⚡  Fun fact: I am play in 5 instruments
