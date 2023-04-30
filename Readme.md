@@ -3,8 +3,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonaisrayel&show_icons=true&locale=en&color=Gradient" alt="sonaisrayel" /></p>
 
-- 🌱 I’m currently learning GO programming language
-- ⚡  Fun fact: I am play in 5 instruments
 
 
 <!--
